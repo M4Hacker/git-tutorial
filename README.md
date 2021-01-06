@@ -1,12 +1,12 @@
 ## INTRODUCTION 
 
-### Matthieu Roman
+### My work
 
-Hello there is my work. 
+Hello my name is Matthieu Roman and i'm a french student and there is my work. 
 
 If you have any questions, or if there are mistakes, please let me know.
 
-my Discord is Marty McFly#2955
+My Discord is Marty McFly#2955 you can contact me on it
 
 ## Contributors
 
