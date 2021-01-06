@@ -20,6 +20,6 @@ My Discord is Marty McFly#2955 you can contact me on it
 
 And here, there are few images of my environment which i personalized
 
-![](images/Screen.png)
+![](img/Screen.png)
 
-![](images/screen-terminal.png)
+![](img/screen-terminal.png)
