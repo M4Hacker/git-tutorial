@@ -6,7 +6,7 @@ Hello my name is Matthieu Roman and i'm a french student and there is my work.
 
 If you have any questions, or if there are mistakes, please let me know.
 
-My Discord is Marty McFly#2955 you can contact me on it
+My Discord is **Marty McFly#2955** you can contact me on it
 
 ## Contributors
 
@@ -14,7 +14,7 @@ My Discord is Marty McFly#2955 you can contact me on it
 
 ## License & Copyright 
 
-© Matthieu Roman - Linux | ESILV
+© Matthieu Roman - **Linux | ESILV**
 
 ## Images 
 
