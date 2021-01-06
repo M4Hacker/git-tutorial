@@ -1,14 +1,16 @@
 ## INTRODUCTION 
 
-<h1> Matthieu Roman </h1>
+### Matthieu Roman
 
-bonjour voici mon git, je me suis amusé à faire un beau readme.
+Hello there is my work. 
+
+If you have any questions, or if there are mistakes, please let me know.
+
+my Discord is Marty McFly#2955
 
 ## Contributors
 
-- Matthieu Roman (mail pro) <matthieu.roman@edu.devinci.fr>
-
-- Matthieu Roman (mail perso) <matthieu.roman2002@gmail.com>
+- Matthieu Roman <matthieu.roman@edu.devinci.fr>
 
 ## License & Copyright 
 
@@ -16,7 +18,7 @@ bonjour voici mon git, je me suis amusé à faire un beau readme.
 
 ## Images 
 
-Voici quelques images de mon environnement
+And here, there are few images of my environment which i personalized
 
 ![](images/Screen.png)
 
