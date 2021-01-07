@@ -48,4 +48,4 @@ And here, few images from the program :
 
 ![](img/search_number.png)
 
-![](congrats.png)
+![](img/congrats.png)
