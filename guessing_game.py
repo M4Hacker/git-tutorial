@@ -1,14 +1,22 @@
 #!  /usr/bin/python3
 
 # The random package is needed to choose a random number
+
 import random
+import os 
 
 # Define the game in a function
+
 def guess_loop():
+
+    print("Hello user")
+    name = input("What is your name : ")
+
     # This is the number the user will have to guess , chosen randomly
     # in between 1 and 100
+    os.system('clear')
+    print ("Alright " + name + "I have in mind a number in between 1 and 100 , can you find it ?")
     number_to_guess = random.randint (1 , 100)
-    print ("I have in mind a number in between 1 and 100 , can you find it ?")
     # Replay the question until the user finds the correct number
     while True :
         try :
