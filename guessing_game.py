@@ -23,7 +23,7 @@ def guess_loop():
 
     if answer == "yes" or "y":
         os.system('clear')
-        print("I have in mind a number in between 1 and 100 , can you find it ? ")
+        print("I have in mind a number between 1 and 100 , can you find it ? ")
         print("Find the right number : ")
 
     elif answer == "no" or "n":
