@@ -28,7 +28,7 @@ Open your [**terminal**](https://doc.ubuntu-fr.org/terminal) and run this comman
 
 Once in the folder git-project you have to run this : 
 
-```shell ./guessing_game.py ```
+```./guessing_game.py ```
 
 **Enjoy 🎉**
 
