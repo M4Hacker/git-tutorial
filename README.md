@@ -42,8 +42,10 @@ Once in the folder git-project you have to run this :
 
 ## Images 
 
-And here, there are few images of my environment which i personalized
+And here, few images from the program : 
 
-![](img/Screen.png)
+![](img/user_name.png)
 
-![](img/screen-terminal.png)
+![](img/search_number.png)
+
+![](congrats.png)
